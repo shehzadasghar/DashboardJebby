@@ -1,0 +1,17 @@
+/* .sticky {
+    position: sticky;
+    top: 0;
+} */
+
+/* input[type=text] {
+    width: 100% !important;
+} */
+
+/* input[type=password] {
+    width: 100% !important;
+} */
+
+.aera {
+    box-shadow: 3px 3px 10px 3px #dddddd;
+    border-radius: 20px;
+}

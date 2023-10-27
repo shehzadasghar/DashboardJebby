@@ -1,0 +1,118 @@
+.small-box {
+    box-shadow: 1px 5px 5px 5px lightgrey;
+    border-radius: 5px;
+}
+
+.ber {
+    border-radius: 5px;
+    background: #7f5e81;
+    background: -webkit-linear-gradient(to right, #4644ad, #7f5e81);
+    background: linear-gradient(to right, #4644ad, #7f5e81);
+    font-size: 11px;
+    justify-content: center;
+    height: 39px;
+    display: flex;
+    align-items: center;
+}
+
+.nj {
+    box-shadow: 1px 5px 5px 5px lightgrey;
+    border-radius: 5px;
+}
+
+/* input[type=text] {
+    padding: 10px !important;
+} */
+
+.aera {
+    box-shadow: 3px 3px 10px 3px #dddddd;
+    border-radius: 20px;
+}
+
+.todo-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: auto;
+}
+
+.todo-list>li {
+    border-radius: 2px;
+    padding: 10px;
+    background: #f7f7f76e;
+    margin-bottom: 2px;
+    color: #444;
+    font-size: 13px;
+}
+
+.todo-title {
+    background-color: #f3f2f7 !important;
+    color: #6e6b7b;
+    font-weight: 500 !important;
+}
+
+.todo-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: auto;
+}
+
+.ir_txt_overflow:hover {
+    overflow: auto !important;
+}
+
+.ir_fl_left_pl_5 {
+    float: left !important;
+    padding-left: 5px !important;
+}
+
+.todo-list>li .text {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.ir_fl_right_pr_fw {
+    float: right !important;
+    padding-right: 5px !important;
+}
+
+.ir_fl_right_c_pr_5 {
+    float: right !important;
+    padding-right: 5px !important;
+}
+
+.ccc {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.ccc:hover {
+    overflow-x: auto !important;
+    transition: .5s !important;
+}
+
+.recharts-surface {
+    width: 346px !important;
+}
+
+.recharts-wrapper {
+    display: flex !important;
+    justify-content: center !important;
+    width: 381px !important;
+}
+.set-btn-1{
+    position: relative;
+    overflow: visible;
+    margin-top: 30px;
+}
+.notification-count {
+    background-color: red;
+    color: black;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 13px;
+}

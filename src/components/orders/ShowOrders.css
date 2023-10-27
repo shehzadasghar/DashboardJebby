@@ -1,0 +1,32 @@
+.sticky {
+    position: sticky;
+    top: 0;
+}
+.set-div-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.set-row-1{
+    margin-bottom: 10px;
+}
+.set-row-1 .col-lg-2{
+    text-align: end;
+}
+.modal-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.modal-body input{
+    padding: 5px;
+    outline: none;
+    border: 1px solid #000;
+    background-color: transparent;
+    width: 100%;
+}
+.set-row-1 h3{
+    margin-bottom: 20px;
+}

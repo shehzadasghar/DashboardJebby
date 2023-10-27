@@ -1,0 +1,23 @@
+.form-control:focus {
+    color: #495057;
+    background-color: #f9f9f9 !important;
+    border-color: gray !important;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+.btnorderbookersub {
+    background-color: #6f42c1 !important;
+    color: white;
+}
+
+.btnorderbookersub:hover {
+    background-color: #fd851a !important;
+    color: white;
+    transition: .5s;
+}
+
+.aera {
+    box-shadow: 3px 3px 10px 3px #dddddd;
+    border-radius: 20px;
+}
